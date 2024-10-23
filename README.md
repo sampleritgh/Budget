@@ -65,19 +65,19 @@ This project is a RESTful API for managing financial transactions using Node.js,
 ## API Demonstration
 
 ### POST /transactions
-![POST /transactions](./screenshots/post_transaction.png)
+![POST /transactions]((https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658761/Screenshot_2024-10-23_101534_rgnwy6.png))
 
 ### GET /transactions
-![GET /transactions](./screenshots/get_transactions.png)
+![GET /transactions](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658613/Screenshot_2024-10-23_101258_vhstzo.png)
 
 ### GET /transactions/:id
-![GET /transactions/:id](./screenshots/get_transaction_by_id.png)
+![GET /transactions/:id]([./screenshots/get_transaction_by_id.png](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658481/Screenshot_2024-10-23_023246_zwyzt5.png))
 
 ### PUT /transactions/:id
-![PUT /transactions/:id](./screenshots/update_transaction.png)
+![PUT /transactions/:id](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729657786/Screenshot_2024-10-23_093951_u5prdo.png)
 
 ### DELETE /transactions/:id
-![DELETE /transactions/:id](./screenshots/delete_transaction.png)
+![DELETE /transactions/:id]([./screenshots/delete_transaction.png](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658174/Screenshot_2024-10-23_093927_qkdmo0.png))
 
 ### GET /summary
-![GET /summary](C:\Users\91701\Pictures\Screenshots\Screenshot 2024-10-23 093951.png)
+![GET /summary]([https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658288/Screenshot_2024-10-23_093812_glnoc3.png])
