@@ -65,7 +65,7 @@ This project is a RESTful API for managing financial transactions using Node.js,
 ## API Demonstration
 
 ### POST /transactions
-![POST /transactions]((https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658761/Screenshot_2024-10-23_101534_rgnwy6.png))
+![POST /transactions](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658761/Screenshot_2024-10-23_101534_rgnwy6.png)
 
 ### GET /transactions
 ![GET /transactions](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658613/Screenshot_2024-10-23_101258_vhstzo.png)
