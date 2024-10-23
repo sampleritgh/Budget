@@ -71,13 +71,13 @@ This project is a RESTful API for managing financial transactions using Node.js,
 ![GET /transactions](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658613/Screenshot_2024-10-23_101258_vhstzo.png)
 
 ### GET /transactions/:id
-![GET /transactions/:id]([./screenshots/get_transaction_by_id.png](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658481/Screenshot_2024-10-23_023246_zwyzt5.png))
+![GET /transactions/:id](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658481/Screenshot_2024-10-23_023246_zwyzt5.png)
 
 ### PUT /transactions/:id
 ![PUT /transactions/:id](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729657786/Screenshot_2024-10-23_093951_u5prdo.png)
 
 ### DELETE /transactions/:id
-![DELETE /transactions/:id]([./screenshots/delete_transaction.png](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658174/Screenshot_2024-10-23_093927_qkdmo0.png))
+![DELETE /transactions/:id](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658174/Screenshot_2024-10-23_093927_qkdmo0.png)
 
 ### GET /summary
-![GET /summary]([https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658288/Screenshot_2024-10-23_093812_glnoc3.png])
+![GET /summary](https://res.cloudinary.com/dy8shu8ss/image/upload/v1729658288/Screenshot_2024-10-23_093812_glnoc3.png)
