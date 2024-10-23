@@ -80,4 +80,4 @@ This project is a RESTful API for managing financial transactions using Node.js,
 ![DELETE /transactions/:id](./screenshots/delete_transaction.png)
 
 ### GET /summary
-![GET /summary]("C:\Users\91701\Pictures\Screenshots\Screenshot 2024-10-23 093951.png")
+![GET /summary](C:\Users\91701\Pictures\Screenshots\Screenshot 2024-10-23 093951.png)
